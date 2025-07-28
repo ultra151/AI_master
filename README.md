@@ -1,7 +1,7 @@
 
 ## Everything about Data Analysis
 
-https://img.shields.io/badge/:Everything_is-Data
+![Static Badge](https://img.shields.io/badge/:Everything_is-Data-blue
 
 - 🔭 I’m currently working as a freelancer.
 - 🌱 I’m currently learning everything about Data Analysis.
