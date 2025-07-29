@@ -7,7 +7,7 @@
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Numpy](https://img.shields.io/badge/-Numpy-black?style=flat-square&logo=Numpy)
 ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=Pandas)
-![scikitlearn](https://img.shields.io/badge/M/L_Framework-scikitlearn-blue?style=flat-square&logo=scikit-learn)
+![Scikit-learn](https://img.shields.io/badge/M/L_Framework-Scikitlearn-blue?style=flat-square&logo=scikit-learn)
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-black?style=flat-square&logo=Tensorflow)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-black?style=flat-square&logo=PyTorch)
 ![R](https://img.shields.io/badge/-R-181717?style=flat-square&logo=R)
