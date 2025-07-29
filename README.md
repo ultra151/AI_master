@@ -16,6 +16,9 @@
 ![Tableau](https://img.shields.io/badge/-Tableau-black?style=flat-square&logo=Tableau)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=Figma)
+![ComfyUI](https://img.shields.io/badge/-ComfyUI-black?style=flat-square&logo=ComfyUI)
+
 
 - 🔭 I’m currently working as a Data Analyst
 - 🌱 I’m currently learning about Cloud Engineering 
