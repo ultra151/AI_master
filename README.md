@@ -5,9 +5,15 @@
 
 ## Skills I have
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Numpy](https://img.shields.io/badge/-Numpy-black?style=flat-square&logo=Numpy)
+![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=Pandas)
 ![scikitlearn](https://img.shields.io/badge/-scikitlearn-black?style=flat-square&logo=scikit-learn)
+![Tensorflow](https://img.shields.io/badge/-Tensorflow-black?style=flat-square&logo=Tensorflow)
+![PyTorch](https://img.shields.io/badge/-PyTorch-black?style=flat-square&logo=PyTorch)
 ![R](https://img.shields.io/badge/-R-181717?style=flat-square&logo=R)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+![OracleSQL](https://img.shields.io/badge/-OracleSQL-black?style=flat-square&logo=OracleSQL)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=Postgresql)
+![Tableau](https://img.shields.io/badge/-Tableau-black?style=flat-square&logo=Tableau)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
