@@ -3,6 +3,6 @@
 
 ![Static Badge](https://img.shields.io/badge/Everything_is-Data-blue)
 
-- 🔭 I’m currently working as a freelancer.
-- 🌱 I’m currently learning everything about Data Analysis.
+- 🔭 I’m currently working as a Data Analyst
+- 🌱 I’m currently learning about Cloud Engineering 
 - 📫 How to reach me: ultra151@gmail.com 
