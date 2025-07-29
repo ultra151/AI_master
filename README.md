@@ -5,7 +5,7 @@
 
 ## Skills I have
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![Scikit-learn](https://img.shields.io/badge/-Scikit-learn-black?style=flat-square&logo=scikit-learn)
+![scikit-learn](https://img.shields.io/badge/-scikit-learn-black?style=flat-square&logo=scikit-learn)
 ![R](https://img.shields.io/badge/-R-181717?style=flat-square&logo=R)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
