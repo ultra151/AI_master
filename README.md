@@ -1,4 +1,8 @@
-## Welcome to ultra151
+## Hi, there! 
+
+- 🔭 I’m currently working as a Data Analyst
+- 🌱 I’m currently learning about Cloud Engineering 
+- 📫 How to reach me: ultra151@gmail.com 
 
 ![Static Badge](https://img.shields.io/badge/Everything_is-Data-blue)
 
@@ -20,6 +24,3 @@
 ![ComfyUI](https://img.shields.io/badge/-ComfyUI-black?style=flat-square&logo=ComfyUI)
 
 
-- 🔭 I’m currently working as a Data Analyst
-- 🌱 I’m currently learning about Cloud Engineering 
-- 📫 How to reach me: ultra151@gmail.com 
